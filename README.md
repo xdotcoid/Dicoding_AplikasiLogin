@@ -1,2 +1,6 @@
 # Dicoding_AplikasiLogin
-Course Dicoding University
+
+Alur Fitur Login:
+1. Memasukkan email dan password
+2. Memvalidasi masukan.
+3. Menampilkan halaman beranda.
